@@ -1,0 +1,13 @@
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\bin\Debug\PluralsightCourses.Android.dll
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\bin\Debug\PluralsightCourses.Android.pdb
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\bin\Debug\PluralsightCourses.Android.dll.mdb
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\bin\Debug\PluralsightCourses.Android.apk
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\bin\Debug\PluralsightCourses.Android-Signed.apk
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\PluralsightCourses.Android.dll
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\PluralsightCourses.Android.pdb
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\android\bin\PluralsightCourses.Android.apk
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\res\layout\main.xml
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\res\values\strings.xml
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\res\drawable\icon.png
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\R.cs.flag
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\uploadflags.txt
