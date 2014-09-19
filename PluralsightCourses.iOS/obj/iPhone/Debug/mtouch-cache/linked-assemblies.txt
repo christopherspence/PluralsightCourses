@@ -1,0 +1,3 @@
+/Users/cspence/Documents/github/PluralsightCourses/PluralsightCourses.iOS/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/cspence/Documents/github/PluralsightCourses/PluralsightCourses.iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/cspence/Documents/github/PluralsightCourses/PluralsightCourses.iOS/obj/iPhone/Debug/mtouch-cache/Link/PluralsightCoursesiOS.exe
