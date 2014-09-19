@@ -19,23 +19,39 @@ namespace PluralsightCourses.iOS
 		MonoTouch.UIKit.UIButton buttonPrev { get; set; }
 
 		[Outlet]
+		MonoTouch.UIKit.UIImageView imageCourse { get; set; }
+
+		[Outlet]
 		MonoTouch.UIKit.UILabel labelTitle { get; set; }
+
+		[Outlet]
+		MonoTouch.UIKit.UITextView textDescription { get; set; }
 		
 		void ReleaseDesignerOutlets ()
 		{
-			if (buttonPrev != null) {
-				buttonPrev.Dispose ();
-				buttonPrev = null;
-			}
-
 			if (buttonNext != null) {
 				buttonNext.Dispose ();
 				buttonNext = null;
 			}
 
+			if (buttonPrev != null) {
+				buttonPrev.Dispose ();
+				buttonPrev = null;
+			}
+
 			if (labelTitle != null) {
 				labelTitle.Dispose ();
 				labelTitle = null;
+			}
+
+			if (imageCourse != null) {
+				imageCourse.Dispose ();
+				imageCourse = null;
+			}
+
+			if (textDescription != null) {
+				textDescription.Dispose ();
+				textDescription = null;
 			}
 		}
 	}
