@@ -11,3 +11,6 @@ C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\r
 C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\res\drawable\icon.png
 C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\R.cs.flag
 C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\uploadflags.txt
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\PluralsightCourses.Android.csprojResolveAssemblyReference.cache
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\res\drawable\ps_top_card_01.png
+C:\development\Scratch\PluralsightCourses\PluralsightCourses.Android\obj\Debug\res\drawable\ps_top_card_02.png

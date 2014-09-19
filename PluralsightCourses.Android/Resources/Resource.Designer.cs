@@ -73,7 +73,13 @@ namespace PluralsightCourses.Android
 			public const int buttonPrev = 2131034112;
 			
 			// aapt resource value: 0x7f050002
-			public const int textTitle = 2131034114;
+			public const int imageCourse = 2131034114;
+			
+			// aapt resource value: 0x7f050004
+			public const int textDescription = 2131034116;
+			
+			// aapt resource value: 0x7f050003
+			public const int textTitle = 2131034115;
 			
 			static Id()
 			{
