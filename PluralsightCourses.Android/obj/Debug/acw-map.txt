@@ -1,1 +1,0 @@
-PluralsightCourses.Android.MainActivity;pluralsightcourses.android.MainActivity
