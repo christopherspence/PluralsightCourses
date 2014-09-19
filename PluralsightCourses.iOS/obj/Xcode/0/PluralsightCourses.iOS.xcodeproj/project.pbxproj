@@ -1,0 +1,226 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2EF7C28E0000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3288CF2C0000000000000000 /* UIKit.framework */; };
+		108D65C10000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 141E725F0000000000000000 /* MapKit.framework */; };
+		25C0CE590000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2951DAF70000000000000000 /* Foundation.framework */; };
+		192BB0A20000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CBCBD400000000000000000 /* CoreGraphics.framework */; };
+		2400357C0000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2791421A0000000000000000 /* Info.plist */; };
+		39339E140000000000000000 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CC4AAB20000000000000000 /* Default-568h@2x.png */; };
+		275E5EFE0000000000000000 /* CoursesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2AEF6B9C0000000000000000 /* CoursesViewController.xib */; };
+		562F59300000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 8F4023100000000000000000 /* AppDelegate.h */; };
+		1DF487AD0000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2185944B0000000000000000 /* AppDelegate.m */; };
+		24E3BDCD0000000000000000 /* CoursesViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 2874CA6B0000000000000000 /* CoursesViewController.h */; };
+		3A1726650000000000000000 /* CoursesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DA833030000000000000000 /* CoursesViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2B03DB120000000000000000 /* PluralsightCourses.iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "PluralsightCourses.iOS.app"; path = "PluralsightCourses.iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3288CF2C0000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		141E725F0000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		2951DAF70000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		1CBCBD400000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		2791421A0000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		3CC4AAB20000000000000000 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		2AEF6B9C0000000000000000 /* CoursesViewController.xib */ = {isa = PBXFileReference; name = "CoursesViewController.xib"; path = "CoursesViewController.xib"; sourceTree = "<group>"; };
+		8F4023100000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		2185944B0000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		2874CA6B0000000000000000 /* CoursesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CoursesViewController.h"; path = "CoursesViewController.h"; sourceTree = "<group>"; };
+		3DA833030000000000000000 /* CoursesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CoursesViewController.m"; path = "CoursesViewController.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2987A96D0000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2EF7C28E0000000000000000 /* UIKit.framework in Frameworks */,
+				108D65C10000000000000000 /* MapKit.framework in Frameworks */,
+				25C0CE590000000000000000 /* Foundation.framework in Frameworks */,
+				192BB0A20000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9A11AFB00000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				343ACF470000000000000000 /* PluralsightCourses.iOS */,
+				17E54D730000000000000000 /* Frameworks */,
+				3EEDF5210000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3EEDF5210000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2B03DB120000000000000000 /* PluralsightCourses.iOS.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		17E54D730000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3288CF2C0000000000000000 /* UIKit.framework */,
+				141E725F0000000000000000 /* MapKit.framework */,
+				2951DAF70000000000000000 /* Foundation.framework */,
+				1CBCBD400000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		343ACF470000000000000000 /* PluralsightCourses.iOS */ = {
+			isa = PBXGroup;
+			children = (
+				8F4023100000000000000000 /* AppDelegate.h */,
+				2874CA6B0000000000000000 /* CoursesViewController.h */,
+				2AEF6B9C0000000000000000 /* CoursesViewController.xib */,
+				3CC4AAB20000000000000000 /* Default-568h@2x.png */,
+				2791421A0000000000000000 /* Info.plist */,
+				2A89A5640000000000000000 /* Supporting Files */,
+			);
+			name = "PluralsightCourses.iOS";
+			sourceTree = "<group>";
+		};
+		2A89A5640000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2185944B0000000000000000 /* AppDelegate.m */,
+				3DA833030000000000000000 /* CoursesViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3B0F1E2C0000000000000000 /* PluralsightCourses.iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2050B5380000000000000000 /* Build configuration list for PBXNativeTarget "PluralsightCourses.iOS" */;
+			buildPhases = (
+				14215DB90000000000000000 /* Sources */,
+				2987A96D0000000000000000 /* Frameworks */,
+				3D0BFD440000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "PluralsightCourses.iOS";
+			productName = "PluralsightCourses.iOS";
+			productReference = 2B03DB120000000000000000 /* PluralsightCourses.iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		305BF8520000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 120C82C00000000000000000 /* Build configuration list for PBXProject "PluralsightCourses.iOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9A11AFB00000000000000000;
+			productRefGroup = 3EEDF5210000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3B0F1E2C0000000000000000 /* PluralsightCourses.iOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3D0BFD440000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2400357C0000000000000000 /* Info.plist in Resources */,
+				39339E140000000000000000 /* Default-568h@2x.png in Resources */,
+				275E5EFE0000000000000000 /* CoursesViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		14215DB90000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				562F59300000000000000000 /* AppDelegate.h in Sources */,
+				1DF487AD0000000000000000 /* AppDelegate.m in Sources */,
+				24E3BDCD0000000000000000 /* CoursesViewController.h in Sources */,
+				3A1726650000000000000000 /* CoursesViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		373332910000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		7595CE600000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "PluralsightCourses.iOS";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		120C82C00000000000000000 /* Build configuration list for PBXProject "PluralsightCourses.iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				373332910000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		2050B5380000000000000000 /* Build configuration list for PBXNativeTarget "PluralsightCourses.iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7595CE600000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 305BF8520000000000000000 /* Project object */;
+}
