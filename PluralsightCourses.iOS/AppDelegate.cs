@@ -13,15 +13,16 @@ namespace PluralsightCourses.iOS
     [Register("AppDelegate")]
     public partial class AppDelegate : UIApplicationDelegate
     {
-		UIWindow Window;
-		CourseViewController viewController;
+		UIWindow window;
+		CoursesViewController viewController;
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
-			viewController = new CourseViewController();
-			this.Window.RootViewController = viewController;
+            window = new UIWindow(UIScreen.MainScreen.Bounds);
+			viewController = new CoursesViewController();
+            window.RootViewController = viewController;
 
-            this.Window.MakeKeyAndVisible();
+            window.MakeKeyAndVisible();
 
             return true;
         }        
