@@ -33,11 +33,15 @@ namespace PluralsightCourses.iOS
         void buttonPrev_TouchUpInside(object sender, EventArgs e)
         {
             labelTitle.Text = "Prev Clicked";
+			textDescription.Text = "This is the description that displays when Prev is clicked.";
+			imageCourse.Image = UIImage.FromBundle("ps_top_card_01");
         }
 
         void buttonNext_TouchUpInside(object sender, EventArgs e)
         {
             labelTitle.Text = "Next Clicked";
+			textDescription.Text = "This is the description that displays when Next is clicked.";
+			imageCourse.Image = UIImage.FromBundle("ps_top_card_02");
         }
 	}
 }

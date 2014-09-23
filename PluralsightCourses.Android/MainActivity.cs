@@ -15,7 +15,7 @@ namespace PluralsightCourses.Android
         Button buttonNext;
         ImageView imageCourse;
         TextView textTitle;
-        TextView textDescription;
+        TextView textDescription;        
 
         protected override void OnCreate(Bundle bundle)
         {

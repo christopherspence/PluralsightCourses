@@ -6,3 +6,5 @@ C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhoneSimul
 C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhoneSimulator\Debug\Default-568h@2x.png
 C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhoneSimulator\Debug\PluralsightCoursesiOS.exe
 C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhoneSimulator\Debug\PluralsightCoursesiOS.pdb
+C:\Users\ghaladen\Documents\GitHub\PluralsightCourses\PluralsightCourses.iOS\obj\iPhoneSimulator\Debug\PluralsightCoursesiOS.exe
+C:\Users\ghaladen\Documents\GitHub\PluralsightCourses\PluralsightCourses.iOS\obj\iPhoneSimulator\Debug\PluralsightCoursesiOS.pdb

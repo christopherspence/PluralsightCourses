@@ -22,17 +22,12 @@
     <MtouchLink>None</MtouchLink>
     <MtouchDebug>True</MtouchDebug>
     <MtouchSdkVersion>6.0</MtouchSdkVersion>
-    <MtouchProfiling>False</MtouchProfiling>
-    <MtouchExtraArgs />
-    <MtouchFastDev>False</MtouchFastDev>
-    <MtouchEnableGenericValueTypeSharing>True</MtouchEnableGenericValueTypeSharing>
+    <MtouchExtraArgs>
+    </MtouchExtraArgs>
     <MtouchArch>Default, ARMv7</MtouchArch>
-    <MtouchUseLlvm>False</MtouchUseLlvm>
-    <MtouchUseThumb>False</MtouchUseThumb>
-    <MtouchUseSGen>False</MtouchUseSGen>
-    <MtouchUseRefCounting>False</MtouchUseRefCounting>
     <MtouchOptimizePNGs>True</MtouchOptimizePNGs>
-    <MtouchI18n />
+    <MtouchI18n>
+    </MtouchI18n>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>none</DebugType>
@@ -102,6 +97,8 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Default-568h%402x.png" />
+    <BundleResource Include="Resources\ps_top_card_01.png" />
+    <BundleResource Include="Resources\ps_top_card_02.png" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>

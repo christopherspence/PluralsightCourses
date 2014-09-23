@@ -89,7 +89,7 @@ Global
 		{B95AC925-2192-4D9A-9BFF-4C159B7CA490}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = PluralsightCourses.Android\PluralsightCourses.Android.csproj
+		StartupItem = PluralsightCourses.iOS\PluralsightCourses.iOS.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

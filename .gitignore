@@ -13,3 +13,9 @@ PluralsightCourses.Android/obj/Debug/res/drawable/ps_top_card_02.png
 PluralsightCourses.Android/obj/Debug/res/layout/main.xml
 PluralsightCourses.Android/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
 PluralsightCourses.Android/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+*.apk
+*.apk
+PluralsightCourses.Android/bin/Debug/PluralsightCourses.Android-Signed.apk
+PluralsightCourses.Android/bin/Debug/PluralsightCourses.Android.apk
+*.dll
+*.mdb
