@@ -1,9 +1,0 @@
-C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\bin\iPhone\Debug\PluralsightCoursesiOS.exe
-C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\bin\iPhone\Debug\PluralsightCoursesiOS.pdb
-C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhone\Debug\actool\asset-manifest.plist
-C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhone\Debug\Default-568h@2x.png
-C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhone\Debug\PluralsightCoursesiOS.exe
-C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhone\Debug\PluralsightCoursesiOS.pdb
-C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhone\Debug\ibtool\CoursesViewController.plist
-C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhone\Debug\ibtool\CoursesViewController.nib
-C:\development\Scratch\PluralsightCourses\PluralsightCourses.iOS\obj\iPhone\Debug\PluralsightCourses.iOS.csprojResolveAssemblyReference.cache
