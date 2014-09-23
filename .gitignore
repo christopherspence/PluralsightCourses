@@ -2,6 +2,8 @@ PluralsightCourses.iOS/bin
 PluralsightCourses.iOS/obj
 PluralsightCourses.Android/bin
 PluralsightCourses.Android/obj
+PluralsightCourses.Library/bin
+PluralsightCourses.Library/obj
 *.apk
 *.dll
 *.cache
